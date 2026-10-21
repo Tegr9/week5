@@ -1,3 +1,2 @@
 # week5
-# file was created for testing purposes.
-# qwerty
+# file was created for testing purpose.
